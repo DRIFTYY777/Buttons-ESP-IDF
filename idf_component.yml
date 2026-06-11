@@ -5,10 +5,8 @@ documentation: "https://github.com/DRIFTYY777/Buttons-ESP-IDF/blob/main/README.m
 repository: "https://github.com/DRIFTYY777/Buttons-ESP-IDF"
 issues: "https://github.com/DRIFTYY777/Buttons-ESP-IDF/issues"
 maintainers:
-  - name: "DRIFTYY777"
-    email: "dhimandeepak517@gmail.com"
-dependencies:
-  esp-idf: ">=4.4"
+    - "dhimandeepak517@gmail.com"
+
 tags:
   - "button"
   - "input"
