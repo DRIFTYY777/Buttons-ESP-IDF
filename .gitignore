@@ -1,0 +1,32 @@
+# Dependencies
+/build/
+/managed_components/
+/dependencies.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# ESP-IDF
+/sdkconfig
+/sdkconfig.old
+sdkconfig.defaults.esp*
+*.elf
+*.bin
+*.map
+
+# Other
+.env
+.env.local

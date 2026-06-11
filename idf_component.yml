@@ -1,0 +1,18 @@
+version: "1.0.0"
+description: "Interrupt-driven button handler for ESP32 with debouncing, long press detection, and event callbacks"
+url: "https://github.com/YOUR_USERNAME/button"
+documentation: "https://github.com/YOUR_USERNAME/button/blob/main/README.md"
+repository: "https://github.com/YOUR_USERNAME/button"
+issues: "https://github.com/YOUR_USERNAME/button/issues"
+maintainers:
+  - name: "DRIFTYY777"
+    email: "dhimandeepak517@gmail.com"
+dependencies:
+  esp-idf: ">=4.4"
+tags:
+  - "button"
+  - "input"
+  - "gpio"
+  - "interrupt"
+  - "event-driven"
+license: "MIT"
