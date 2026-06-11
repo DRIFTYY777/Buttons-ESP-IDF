@@ -9,7 +9,7 @@ jobs:
 upload_component:
 runs-on: ubuntu-latest
 
-```
+
 permissions:
   contents: read
   id-token: write
@@ -20,4 +20,4 @@ steps:
 
   - name: Upload component to ESP Registry
     uses: espressif/upload-components-ci-action@v2
-```
+
